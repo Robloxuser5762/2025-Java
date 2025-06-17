@@ -1,0 +1,7 @@
+1001 Television 705.85 2
+1006 Music center 481.23 21
+4003 Laptop computer 269.99 4
+2117 Microwave oven 134.67 3
+1023 Washing machine 563.55 12
+2876 Freezer 896.31 14
+1007 Firestick 102.74 25
