@@ -1,2 +1,2 @@
 # 2025-Java
-Some Java projects from my AP Java course.
+This repository contains the important Java projects from my 2024-2025 AP Java course.
